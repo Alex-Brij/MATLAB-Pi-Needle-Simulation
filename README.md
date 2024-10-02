@@ -1,1 +1,2 @@
-# MATLAB-Pi-Needle-Simulation
+- This project was completed in year 2 of university where I had to create a program in MATLAB that simulated Buffon's Needle experiment in which needles are dropped over cracks in floorboards to estimate the value of pi.
+- The project involved working out the maths to drop the needles and other shapes that were dropped, calculating the value of pi from the dropped shapes, plotting the dropped shapes on graphs and creating a GUI in MATLAB app designer to allow the user to run the experiment, control the parameters of the experiment, view and interact with the experiment graphicaly and finally view the statisitics/results from the experiment.
